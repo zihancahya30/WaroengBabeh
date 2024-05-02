@@ -6,11 +6,7 @@ https://github.com/rezaardyansyah/WaroengBabeh.git
 lalu setelah itu, pemesanan bisa diperlihatkan ke kasir dari resto tersebut , rencananya pakai barcode, tapi masih belum menentu.
 
 ## featur
-Sprint 1
-* ....
-* 
-* 
-* 
+>sprint1
 
 ## Keterangan Folder
 >
